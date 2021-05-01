@@ -1,6 +1,6 @@
 # Snake Game
 
-PyGame Application for Cobra Game
+PyGame Application for Snake Game
 
 Before you start: make sure your machine is running python 3.8
 
